@@ -1,7 +1,7 @@
 // Alien Generator
 const alienRace = ['Gurndee', 'Amythornd', 'Peasea', 'Blorgenkup'];
 const alienNames = ['Nosh', 'Vesh', 'Gox', 'Xusp', 'Zow', 'Yeg', 'Kozz', 'Xanny', 'Zubu', 'Xas'];
-const food = ['Fish', 'Pears', 'PB & J sandwhiches', 'Oreos', 'Salads', 'Toast', 'Yoghurt', 'Steak', 'Pasta', 'Pizza'];
+const food = ['Fish', 'Pears', 'PB & J sandwhiches', 'Oreos', 'Salads', 'Toast', 'Yoghurt', 'Steak', 'Pasta', 'Pizza', 'Chocolate'];
  
 const randNum = array => {
     let i = 0;
